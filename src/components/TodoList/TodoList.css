@@ -1,0 +1,12 @@
+.TodoList {
+  width: calc(100% - 62px);
+  max-width: 500px;
+  min-width: 280px;
+  margin: 0 auto;
+}
+
+ul {
+  margin: 0;
+  padding: 0 0 56px 0;
+  list-style: none;
+}
