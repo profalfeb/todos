@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//:profalfeb.github.io/todos/static/css/main.d7113066.css",
+    "main.js": "/https//:profalfeb.github.io/todos/static/js/main.ecd3ec56.js",
+    "index.html": "/https//:profalfeb.github.io/todos/index.html",
+    "static/media/delete.svg": "/https//:profalfeb.github.io/todos/static/media/delete.7547ed76b90d5776991c702ed4c38e65.svg",
+    "static/media/check.svg": "/https//:profalfeb.github.io/todos/static/media/check.a9423def4c7e9f1d791c832b06b33ee6.svg",
+    "main.d7113066.css.map": "/https//:profalfeb.github.io/todos/static/css/main.d7113066.css.map",
+    "main.ecd3ec56.js.map": "/https//:profalfeb.github.io/todos/static/js/main.ecd3ec56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7113066.css",
+    "static/js/main.ecd3ec56.js"
+  ]
+}
